@@ -8,3 +8,5 @@ to log into the instance.
 
 For this to work, make sure to run the setup.sh bash script in the same directory
 as playbook.yml, hosts, and ansible.cfg
+
+NOTE: The setup.py script was tested on a Debian system so results may vary on other OS's
