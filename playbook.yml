@@ -16,6 +16,7 @@
     apt: name=apache2 state=present
   - name: restart apache2
     service: name=apache2 state=restarted
-  # - name: stop apache2
+  # - name: stop apache2 # Commented out since I want the website running right now
     # service: name=apache2 state=stopped
+
 ...
