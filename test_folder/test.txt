@@ -1,2 +1,3 @@
 This is just to test if jenkins works properly
 testing build history
+added it to EC2 instance. Build status should be live right now
