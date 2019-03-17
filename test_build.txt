@@ -5,4 +5,4 @@ test 2 - failed
 test 3 - going now
 test 4 - testing
 test 5 - now
-test 6 - cmpe
+test 6 - cmpe172
