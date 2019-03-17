@@ -3,4 +3,4 @@ Connected EC2 instance of jenkins with github webhook
 test 1 - failed
 test 2 - failed
 test 3 - failed
-test 4 - trying
+test 4 - trying.
