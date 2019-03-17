@@ -2,4 +2,4 @@ this is to ensure that the build works with EC2 instance.
 Connected EC2 instance of jenkins with github webhook
 test 1 - failed
 test 2 - failed
-test 3 - trying
+test 3 - failed
